@@ -1,7 +1,7 @@
 # ABOUT-BIJAYA-BHATTA
 This is my port folio. You can know more about me here..
 
-You can find My CV, my publication, Certificate earned through Coursera Online courses, Syallbus of Bachelors in computer engineering under the file name"bct_first year syllabus", my masters degree core subjects syllabys under "MSDSA_Core-Courses_Syllabus", Masters in Public Administration syllabus Under "MPA Course Grading and explnation.."
+You can find My CV, my publication, Certificate earned through Coursera Online courses, Syllabus of Bachelors in computer engineering under the file name"bct_first year syllabus", my masters degree core subjects syllabys under "MSDSA_Core-Courses_Syllabus". 
 
 I did poster presenation once at "SET Conference held by Advanced College of Management"
 and, 
